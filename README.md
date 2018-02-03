@@ -2,14 +2,17 @@
 
 Three _work-in-progress_ applications to help you look at your images differently.
 
-* Sketch 1 - Re-positions image based on mouse position
-* Sketch 2 - Scales image based on user input (press 1, 2, or 3)
-* Sketch 3 - Adds noise through randomizing pixel color values  
+Click to load a new image.
+
+* [Sketch 1](sketches/projections_pensivespectation_1/projections_pensivespectation_1.pde) - Re-positions image based on mouse position
+* [Sketch 2](sketches/projections_pensivespectation_1/projections_pensivespectation_2.pde) - Scales image based on user input (press 1, 2, or 3)
+* [Sketch 3](sketches/projections_pensivespectation_1/projections_pensivespectation_3.pde) - Adds noise through randomizing pixel color values  
 
 
 
-## Google Reminds Me
+## About the data
 
+Nearly every day, the Google Photos application on my phone sends me a notification about images I created on this day, in the past. When I receive these notifications, I revisit where I've been and when. I zoom in on these reminded images, and re-photographing them by making screenshots of their details. These screenshots are new compositions of old things. 
 
 
 ## Results 
