@@ -46,4 +46,9 @@ Nearly every day, the Google Photos application on my phone sends me a notificat
 <img src="images/results_12.png" />
 <img src="images/results_13.png" />
 <img src="images/results_14.png" />
+<img src="images/results_15.png" />
+<img src="images/results_16.png" />
+<img src="images/results_17.png" />
+<img src="images/results_18.png" />
+<img src="images/results_19.png" />
 
