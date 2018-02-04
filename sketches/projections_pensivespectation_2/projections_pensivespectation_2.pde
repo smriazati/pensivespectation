@@ -1,5 +1,5 @@
 // declare & initialize variables for imageLoader
-int counter = 16; // number of images, would be cooler if it could count the folder
+int counter = 51; // number of images, would be cooler if it could count the folder
 PImage[] imgs = new PImage[counter]; // declary the array, create 20 spots
 
 int currentIndex = 1;

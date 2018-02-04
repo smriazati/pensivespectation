@@ -41,6 +41,7 @@ Nearly every day, the Google Photos application on my phone sends me a notificat
 <img src="images/results_07.png" />
 <img src="images/results_08.png" />
 <img src="images/results_09.png" />
+
 <img src="images/results_10.png" />
 <img src="images/results_11.png" />
 <img src="images/results_12.png" />
@@ -51,4 +52,26 @@ Nearly every day, the Google Photos application on my phone sends me a notificat
 <img src="images/results_17.png" />
 <img src="images/results_18.png" />
 <img src="images/results_19.png" />
+
+<img src="images/results_20.png" />
+<img src="images/results_21.png" />
+<img src="images/results_22.png" />
+<img src="images/results_23.png" />
+<img src="images/results_24.png" />
+<img src="images/results_25.png" />
+<img src="images/results_26.png" />
+<img src="images/results_27.png" />
+<img src="images/results_28.png" />
+<img src="images/results_29.png" />
+
+
+<img src="images/results_30.png" />
+<img src="images/results_31.png" />
+<img src="images/results_32.png" />
+<img src="images/results_33.png" />
+<img src="images/results_34.png" />
+<img src="images/results_35.png" />
+<img src="images/results_36.png" />
+<img src="images/results_37.png" />
+
 
